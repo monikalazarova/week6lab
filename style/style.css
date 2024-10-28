@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(150, 136, 136);
+    color:white;
+}
+.show{
+    background-color: rgba(255, 255, 255, 0.87);
+    color:black
+}
+.row{
+    margin-top:20px;
+    min-height:100px;
+    justify-content:space-between;
+}
+.border-orange{
+    border:none;
+    height: 3px;
+    background-color: orange;
+}
+.custom-danger{
+    background-color: orange;
+    border-color: #fefefe;
+}
+.custom-danger:hover{
+    background-color: #d47800;
+    border-color: #fefefe;
+}
